@@ -10,11 +10,14 @@
 <a href="https://github.com/davormalnar">
     <img src="https://github-readme-stats.vercel.app/api?username=davormalnar&count_private=true&show_icons=true&theme=dracula" />
 </a>
+</div>
 
+<div align="center">    
 <a href="https://github.com/davormalnar">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davormalnar&langs_count=5&count_private=true&layout=compact&theme=dracula" />
 </a>    
 </div>
+
 
 <br>
 
