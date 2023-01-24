@@ -3,18 +3,17 @@
 <h2 align="center">My Github Stats</h2>
 
 <div align="center">    
-
 <a href="https://github.com/davormalnar">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=davormalnar&theme=dracula" />
-</a>
+</a>   
 
 <a href="https://github.com/davormalnar">
     <img src="https://github-readme-stats.vercel.app/api?username=davormalnar&count_private=true&show_icons=true&theme=dracula" />
 </a>
+
 <a href="https://github.com/davormalnar">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davormalnar&langs_count=5&count_private=true&layout=compact&theme=dracula" />
-</a>
-    
+</a>    
 </div>
 
 <br>
