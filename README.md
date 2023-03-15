@@ -12,12 +12,12 @@
 </a>
 </div>
 
-<div align="center">    
+<!-- <div align="center">    
 <a href="https://github.com/davormalnar">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davormalnar&langs_count=5&count_private=true&layout=compact&theme=dracula" />
 </a>    
 </div>
-
+-->
 
 <br>
 
