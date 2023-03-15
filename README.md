@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="sSE6qDq_S8Za2T0JZBXdPLK7eZueRZV4vsW1ZSb6IU0" />
-
 <h2 align="center">My Github Stats</h2>
 
 <div align="center">    
